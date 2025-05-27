@@ -1,4 +1,4 @@
-[https://studio.youtube.com/video/cl4GyYYznHE/edit](https://youtu.be/cl4GyYYznHE)
+https://www.youtube.com/watch?v=cl4GyYYznHE&ab_channel=ErvaAyg%C3%BCne%C5%9F
 
 # Hamming SEC-DED Kod Simülatörü 
 

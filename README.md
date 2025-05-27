@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=cl4GyYYznHE&ab_channel=ErvaAyg%C3%BCne%C5%9F
+
 # Hamming SEC-DED Kod Simülatörü 
 
 Bu proje, 8, 16 ve 32 bitlik veriler için Hamming SEC-DED (Single Error Correcting – Double Error Detecting) algoritmasını kullanan basit bir simülasyon yazılımıdır.
